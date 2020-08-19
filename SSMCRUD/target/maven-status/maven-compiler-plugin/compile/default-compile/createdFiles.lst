@@ -1,0 +1,10 @@
+com\oracle\mapper\ProductMapper.class
+com\oracle\service\ProductService.class
+com\oracle\controller\ProductController.class
+com\oracle\pojo\ProductQuery.class
+com\oracle\serviceImpl\ProductServiceImpl.class
+com\oracle\pojo\ProductQuery$Criteria.class
+com\oracle\pojo\ProductQuery$GeneratedCriteria.class
+com\oracle\pojo\ProductQuery$Criterion.class
+com\oracle\controller\UserController.class
+com\oracle\pojo\Product.class
